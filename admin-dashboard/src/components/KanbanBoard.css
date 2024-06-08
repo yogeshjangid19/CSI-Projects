@@ -1,0 +1,26 @@
+.board {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.column-container {
+  width: 30%;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+
+.task-container {
+  padding: 0.5rem;
+  background-color: #ffffff;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+
+.task-container.dragging {
+  opacity: 0.8;
+}

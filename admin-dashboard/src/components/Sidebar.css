@@ -1,0 +1,19 @@
+.sidebar {
+  width: 200px;
+  background-color: #ffffff;
+  color: #333333;
+  border-right: 1px solid #dddddd;
+
+}
+
+.sidebar-item {
+  transition: background-color 0.3s;
+}
+
+.sidebar-item:hover {
+  background-color: #f5f5f5;
+}
+
+.sidebar-icon {
+  color: #333333;
+}

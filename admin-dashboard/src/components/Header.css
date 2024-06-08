@@ -1,0 +1,24 @@
+
+.admin_nav{
+  font-size: 20px;
+  height: 80px;
+  width: 100%;
+  border: 0.7px solid rgb(213, 213, 213);
+  border-radius: 10px;
+  display: flex;
+  gap: 800px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.admin_nav h4{
+  padding-left: 10px;
+  font-family: "Montserrat", sans-serif;
+
+}
+.header-title {
+  flex-grow: 1;
+}
+
+.header-icon {
+  color: #333333;
+}
