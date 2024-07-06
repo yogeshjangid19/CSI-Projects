@@ -1,5 +1,17 @@
-# React + Vite
+Use npm run dev to start 
 
+
+first npm install    
+then npm run dev 
+
+
+
+To get admin page 
+
+admin id : yogesh@gmail.com
+admin pass: yogesh
+
+otherwise Normal user
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
