@@ -1,3 +1,6 @@
+Deployed Preview
+https://genzeez.netlify.app/
+
 Use npm run dev to start 
 
 
